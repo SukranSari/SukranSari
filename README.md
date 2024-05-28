@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## ⬆ What I'm up to
 - 🔨 I'm currently learning Webdevelopment
 - 🎯 In the near future, I plan to get a job as Webdeveloper
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘 be One day I hope to be a webdeveloper with experience
+- 🤞 One day I hope to be a webdeveloper with experience
 - 🤔 I need the support for starting a career with a good induction
 
 ## 🔔 My Experience with GitHub
