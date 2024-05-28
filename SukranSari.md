@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 ## :book: About Me
 - 🖥 Software developer as beginer in the filed of Webdevelopment
-- 💼 Management of products by r𝚞𝚗𝚗𝚒𝚗𝚐 of database
+- 💼 Management of products by running of database
 - 💼 Experience in data processing with Excel
-- 🎓 Study Computer Science 𝚊𝚝 𝚝𝚑𝚎 technical college of Lübeck, graduating June 𝟸017
+- 🎓 Study Computer Science at the technical College of Lübeck, graduating June 𝟸017
 - 🎓 apprenticeship as office worker
 
 
 ## ⬆ What I'm up to
 - 🔨 I'm currently learning Webdevelopment
 - 🎯 In the near future, I plan to get a job as Webdeveloper
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘 be a webdeveloper with experience
+- 🤞 One day I hope to be a webdeveloper with experience
 - 🤔 I need the support for starting a career with a good induction
 
 ## 🔔 My Experience with GitHub
