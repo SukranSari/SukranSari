@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## :book: About Me
 - 🖥 Software developer as beginer in the filed of Webdevelopment
-- 💼 Management of products by r𝚞𝚗𝚗𝚒𝚗𝚐 of database
+- 💼 Management of products by running of database
 - 💼 Experience in data processing with Excel
 - 🎓 Study Computer Science at the technical College of Lübeck, graduating June 𝟸017
 - 🎓 apprenticeship as office worker
