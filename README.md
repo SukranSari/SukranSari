@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🖥 Software developer as beginer in the filed of Webdevelopment
 - 💼 Management of products by r𝚞𝚗𝚗𝚒𝚗𝚐 of database
 - 💼 Experience in data processing with Excel
-- 🎓 Study Computer Science 𝚊𝚝 𝚝𝚑𝚎 technical college of Lübeck, graduating June 𝟸017
+- 🎓 Study Computer Science at the technical College of Lübeck, graduating June 𝟸017
 - 🎓 apprenticeship as office worker
 
 
